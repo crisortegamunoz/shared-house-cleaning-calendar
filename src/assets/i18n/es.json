@@ -1,0 +1,24 @@
+{
+  "HEADER":{
+    "SEARCH": {
+      "TEXT": "Buscar.."
+    }
+  },
+  "MENUITEMS": {
+    "USER":{
+      "POST": "Gerente"
+    },
+    "MAIN": {
+      "TEXT": "Principal"
+    },
+    "DASHBOARD": {
+      "TEXT": "Casa",
+      "LIST": {
+        "DASHBOARD": "Tablero"
+      }
+    },
+    "CALENDAR": {
+      "TEXT": "Calendario"
+    }
+  }
+}
